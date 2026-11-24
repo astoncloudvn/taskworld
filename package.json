@@ -1,5 +1,5 @@
 {
-  "name": "flowforge",
+  "name": "taskworld",
   "version": "1.0.0",
   "description": "A universal workflow and automation engine for Node.js and TypeScript",
   "license": "MIT",
@@ -65,5 +65,13 @@
     "scheduler",
     "event-driven"
   ],
-  "author": ""
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astoncloudvn/taskworld.git"
+  },
+  "bugs": {
+    "url": "https://github.com/astoncloudvn/taskworld/issues"
+  },
+  "homepage": "https://github.com/astoncloudvn/taskworld#readme"
 }
