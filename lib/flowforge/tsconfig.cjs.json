@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "rootDir": "src",
+    "outDir": "dist/cjs",
+    "types": ["node"],
+    "sourceMap": true,
+    "strict": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "noEmitOnError": true,
+    "skipLibCheck": true,
+    "declaration": true,
+    "declarationMap": false
+  },
+  "include": ["src/**/*.ts"]
+}

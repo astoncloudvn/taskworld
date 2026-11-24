@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 88" role="img" aria-labelledby="title">
+  <title id="title">FlowForge</title>
+  <defs>
+    <linearGradient id="flow" x1="10" y1="44" x2="76" y2="44" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#16B8A6"/>
+      <stop offset="1" stop-color="#4778F5"/>
+    </linearGradient>
+  </defs>
+  <path d="M18 44h44M39 22v44M39 22h26M39 66h26" fill="none" stroke="url(#flow)" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+  <circle cx="18" cy="44" r="8" fill="#16B8A6"/>
+  <circle cx="65" cy="22" r="8" fill="#4778F5"/>
+  <circle cx="65" cy="66" r="8" fill="#4778F5"/>
+  <circle cx="39" cy="44" r="9" fill="#fff" stroke="#4778F5" stroke-width="5"/>
+  <text x="92" y="58" fill="#14243A" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="42" font-weight="700" letter-spacing="-1.4">FlowForge</text>
+</svg>
